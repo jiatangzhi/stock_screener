@@ -1,3 +1,27 @@
-# stock_screener
+# Stock Market Dynamics Visualization
 
-This final year project is undertaken with the ultimate aim to explore ways of automating the replication of correlated portfolios across shares with different algorithms and select one to implement into a visualization tool that will enable us to build our portfolio. The stock market dynamics provide an overview of the global economy that acts as a catalyst for stakeholders to participate in order to benefit different sectors financially, mainly by investing in companies that will reward them as well as the economy. These algorithms are evaluated and compared in order to make a well-educated decision on the essential core aims of my project. By the end I will decide whether the program can efficiently analyse the data available from Yahoo Finance in order to provide a quick overview of the financial market state from companies in the S&P 500 US stock prices. This paper will also discuss issues encountered and conclude by evaluating the project using the method I recognized as most effective and suitable.
+## Overview
+
+This final year project is focused on automating the replication of correlated stock portfolios using various algorithms. The primary objective is to discern the most effective approach and incorporate it into a visualization tool, enhancing portfolio construction.
+
+## Motivation
+
+The intricacies of stock market dynamics not only offer insights into the global economy but also serve as a driving force for stakeholders. Investing in the right companies can yield rewarding outcomes, benefiting both individual stakeholders and the broader economy.
+
+## Algorithms and Techniques
+- **K-means clustering**
+- **t-SNE** (t-distributed stochastic neighbor embedding)
+- **Elbow Method** for determining the optimal number of clusters
+- **Silhouette Coefficient** for cluster validation 
+
+## Data Source
+
+The project leverages data from Yahoo Finance, primarily focusing on companies listed under the S&P 500 US stock prices.
+
+## Key Outcomes
+
+Upon project completion, the goal is to ascertain whether our program can proficiently analyze the Yahoo Finance data, producing a concise snapshot of the dominant financial market landscape.
+
+## Challenges & Conclusions
+
+Throughout the project's duration, various challenges will be documented. The concluding segment will encapsulate our assessments, underlining the methodology deemed most efficacious and appropriate for the project's core objectives.
